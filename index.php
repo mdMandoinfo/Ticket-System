@@ -1,4 +1,5 @@
 <?php
+// Created by mdMandoinfo
 if(!file_exists("mysql.php")){
   header("Location: setup/index.php");
   exit;
